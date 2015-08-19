@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+[gui]
+	wmstate = zoomed
+	geometry = 820x447+-1124+249 179 491
+[remote "origin"]
+	url = https://github.com/iheo/SpeechRhythm.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

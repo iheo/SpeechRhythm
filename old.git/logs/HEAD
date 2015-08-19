@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 c1b1b4b9c97523c0a066acb9ccb39767defbca03 unknown <iheo@CTN5KS1.ad.wisc.edu> 1412138938 -0500	commit (initial): Initial Stage on 9/30/2014
+c1b1b4b9c97523c0a066acb9ccb39767defbca03 b4ba0d4cada30b9e3cabbb6961cd1f618358e255 unknown <iheo@CSD-CTN5KS1.ad.wisc.edu> 1418688349 -0600	commit: Gmm and Svd models are successfully coded, trained and tested and resulted good performance rate for svd
+b4ba0d4cada30b9e3cabbb6961cd1f618358e255 c25f9ae63d3c171a2c084e61be575f171ae48c91 unknown <iheo@CSD-CTN5KS1.ad.wisc.edu> 1420254438 -0600	commit: SVM classification is successfully implemented
+c25f9ae63d3c171a2c084e61be575f171ae48c91 f550f40473106924c8658fc52eb087127fed8b9e unknown <iheo@CSD-CTN5KS1.ad.wisc.edu> 1439967673 -0500	commit: Occasional commit
