@@ -50,7 +50,8 @@ AV = accdata_read(Class, accnames, 'Train');
 for iClassDef = 1:NClassDef
     for FromGroup = 1:NGroup
         for RefGroup = 1 : NGroup
-            X = AV(iClassDef, FromGroup, RefGroup).Vecs;
+%             X = AV(iClassDef, FromGroup, RefGroup).Vecs;
+            X = AV(iClassDef, FromGroup, RefGroup).VecsPoly1;
 %             plot(X);
 %             pause;
             [U, S, V] = svds(X, 100);

@@ -1,13 +1,13 @@
-function AV = accdata_read(Class, accnames, IdxSet, SampleOffset)
+function AV = accdata_read(Class, accnames, IdxSetStr, SampleOffset)
 % Read the feature data, append, and return that augmented vector
 
 % SampleOffset = 120;
 
 [NClassDef, NGroup] = size(Class);
 
-if strcmpi(IdxSet, 'Train');
+if strcmpi(IdxSetStr, 'Train');
     IdxKind = 'IsTrain';
-elseif strcmpi(IdxSet, 'Test');
+elseif strcmpi(IdxSetStr, 'Test');
     IdxKind = 'IsTest';
 else
     fprintf('Idx Set is not specified, returning...');
