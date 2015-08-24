@@ -13,7 +13,7 @@ trainfilelist;
 % iTask = 5;  Task = 'Gender';    IdxSet = 1:90;     % Chris (2)
 % iTask = 6;  Task = 'Gender';    IdxSet = 91:180;   % Chris (3)
 % iTask = 7;  Task = 'Gender';    IdxSet = 181:235;   % NUC (11)
-iTask = 8;  Task = 'Gender';    IdxSet = 236:290;   % NUC (12)
+% iTask = 8;  Task = 'Gender';    IdxSet = 236:290;   % NUC (12)
 % iTask = 9;  Task = 'Gender';    IdxSet = 291:345;   % NUC (21)
 % iTask = 10;  Task = 'Gender';    IdxSet = 346:400;   % NUC (22)
 % iTask = 11;  Task = 'Gender';    IdxSet = 401:500;  % Main (1)
